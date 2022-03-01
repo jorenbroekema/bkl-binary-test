@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/joren-dev.blank-l016zi6l",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve scgPQG4lw7XzllkkFAgR --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
